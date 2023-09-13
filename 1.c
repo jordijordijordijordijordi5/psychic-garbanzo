@@ -47,8 +47,5 @@ int main()
 	insert(root, 60);
 	insert(root, 80);
 
-	// Print inorder traversal of the BST
-	inorder(root);
-
 	return 0;
 }
